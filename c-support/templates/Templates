@@ -3,7 +3,7 @@
 § ==========================================================
 
 SetMacro( 'AUTHOR',      'Zhen Jiang' )
-SetMacro( 'AUTHORREF',   '' )
+SetMacro( 'AUTHORREF',   'https://github.com/ijasonjiang' )
 SetMacro( 'COMPANY',     '' )
 SetMacro( 'COPYRIGHT',   '' )
 SetMacro( 'EMAIL',       'jason.jiangzhen@qq.com' )
